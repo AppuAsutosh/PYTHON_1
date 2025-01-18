@@ -1,2 +1,3 @@
 # PYTHON_1
-#print(
+#print()
+
